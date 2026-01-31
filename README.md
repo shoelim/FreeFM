@@ -9,4 +9,8 @@ python main.py --system dho --mode topk --device cuda:0 --integrator euler --ode
 
 ```
 python main.py --system lorenz63 --mode topk --device cuda:0 --integrator euler --ode_steps 100 --topk 256
+
 ```
+
+Work in progress. More details coming soon!
+
