@@ -1,4 +1,4 @@
-# Minimal Implementation of the Proposed Training-Free ODE Model for Probabilistic Forecasting
+# A Minimal Implementation of a Flow Matching Inspired Training-Free Model for Probabilistic Forecasting
 
 ## **Setup**
 
