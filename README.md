@@ -18,7 +18,7 @@ python main.py --system lorenz63 --mode topk --device cuda:0 --integrator euler 
 ## **Citation**
 If you find our work useful for your research, please consider citing our paper:
 ```
-@article{lim2026isflowmatchingjusttrajectoryreplay,
+@article{lim2026flow,
   title={Is Flow Matching Just Trajectory Replay for Sequential Data?},
   author={Lim, Soon Hoe and Lin, Shizheng and Mahoney, Michael W and Erichson, N Benjamin},
   journal={arXiv preprint arXiv:2602.08318},
