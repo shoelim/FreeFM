@@ -4,6 +4,8 @@ Flow matching (FM) is increasingly used for time-series generation, but it is no
 
 This repository provides a minimal implementation of *FreeFM*, a flow matching inspired training-free model for probabilistic forecasting.
 
+![FreeFM overview](assets/FreeFM_clean_pic.png)
+
 ## **Setup and Running Examples**
 First, install packages from `requirements.txt`. Then we can run the code with simple examples below.
 
