@@ -5,7 +5,7 @@ is not well-understood whether it learns transferable dynamical structure or sim
 show that the implied sampler is an ODE whose dynamics constitutes a nonparametric, memory-augmented continuous-time dynamical system. The optimal field admits a closedform expression as a similarity-weighted mixture of instantaneous velocities induced by observed transitions, making the dataset dependence explicit and interpretable. This characterization positions neural FM models as parametric surrogates of an ideal nonparametric solution and suggests practical approximation schemes for robust ODE-based generation. As a byproduct of our analysis, the resulting closed-form sampler, FreeFM, provides strong probabilistic forecasts on nonlinear dynamical system benchmarks directly from historical transitions, without training.
 
 This repository provides a minimal implementation of *FreeFM*, a flow matching inspired training-free model for probabilistic forecasting.
-For a standalone tutorial, see this [notebook](https://colab.research.google.com/drive/1yA9_GlwIiZVtFlZjOXWbYadckxqOvPgu?usp=sharing). 
+For a standalone tutorial, see this [notebook](https://colab.research.google.com/drive/1yA9_GlwIiZVtFlZjOXWbYadckxqOvPgu?usp=sharing) or this [blog post](https://dynamai.github.io/freeFMblog/). 
 
 ![FreeFM overview](assets/FreeFM_clean_pic.png)
 
